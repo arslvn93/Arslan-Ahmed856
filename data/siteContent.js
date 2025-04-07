@@ -29,9 +29,9 @@ const agentDetails = {
   /** @type {string} Name of the brokerage the agent is affiliated with. */
   brokerageName: "EXECUTIVE HOMES REALTY INC.",
   /** @type {string} URL for the standard agent headshot from AWS. */
-  headshotImageSrc: "1255330.jpg",
+  headshotImageSrc: "/images/agent/1255330.jpg",
   /** @type {string} URL for the agent headshot with no background (constructed from AWS URL). */
-  headshotNoBgImageSrc: "1255330.jpg",
+  headshotNoBgImageSrc: "/images/agent/1255330.jpg",
   /**
    * @description List of social media profiles for the footer.
    * @type {Array<{name: string, url: string, iconClass: string}>}
